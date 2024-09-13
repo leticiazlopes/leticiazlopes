@@ -13,6 +13,6 @@
 </p>
 
 <p align="left">
-  💌 Send me a message 
+  💌 Send me a message: leticiazlzlima@gmail.com
 </p>
 
