@@ -9,10 +9,6 @@
 </p>
 
 <p align="left">
-  💼 Internship: Compass Uol
-</p>
-
-<p align="left">
   💌 Send me a message: leticiazlzlima@gmail.com
 </p>
 
