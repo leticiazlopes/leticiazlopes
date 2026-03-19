@@ -1,14 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Letícia Lopes Lima
+**Software Developer | B.S. Internet Systems @ IFPB**
 
-<p align="left"> 
-  Hi! My name is Letícia and i am a Internet Systems student.
-</p>
+Senior student and M.Sc. Special Student in Distributed Systems. 
+### 🛠️ Technical Stack
+* **Languages:** Python, Java, Go, JavaScript/TypeScript.
+* **Backend:** Spring Boot, Flask, FastAPI, Django .
+* **Frontend:** Vue.js, Angular.
 
-<p align="left">
-  🦄 Languages: JavaScript and Python
-</p>
+### 🔬 Current Focus
+* **M.Sc. Researcher:** Distributed Systems at IFPB.
+* **Software Development:** High-performance systems at Assert Lab.
 
-<p align="left">
-  💌 Send me a message: leticiazlzlima@gmail.com
-</p>
+---
 
+### 📫 Contact
+[**Website**](https://devleticia.com) • [**LinkedIn**](https://linkedin.com/in/leticiazlopes) • [**Email**](mailto:leticiazlzlima@gmail.com)
