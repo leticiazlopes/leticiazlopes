@@ -3,9 +3,9 @@
 
 Senior student and M.Sc. Special Student in Distributed Systems. 
 ### 🛠️ Technical Stack
-* **Languages:** Python, Java, Go, JavaScript/TypeScript.
+* **Languages:** Python, Java, Go, JavaScript/TypeScript, Kotlin.
 * **Backend:** Spring Boot, Flask, FastAPI, Django .
-* **Frontend:** Vue.js, Angular.
+* **Frontend:** Vue.js, Angular, React.
 
 ### 🔬 Current Focus
 * **M.Sc. Researcher:** Distributed Systems at IFPB.
